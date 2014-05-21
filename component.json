@@ -1,0 +1,14 @@
+{
+	"name": "DNGamepads",
+	"repo": "datenighto/DNGamepads",
+	"description": "A unified interface to web browser gamepad API's.",
+	"version": "0.9.0",
+	"main": "lib/DNGamepads.js",
+	"scripts": [
+		"lib/DNGamepads.js"
+	],
+	"ignore": [
+		"examples/"
+	],
+	"license": "MIT"
+}

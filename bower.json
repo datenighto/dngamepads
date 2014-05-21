@@ -1,0 +1,11 @@
+{
+  "name": "DNGamepads",
+  "version": "0.9.0",
+  "main": "lib/DNGamepads.js",
+  "ignore": [
+    "**/.*",
+    "component.json",
+    "package.json",
+    "examples"
+  ]
+}
