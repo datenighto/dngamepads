@@ -109,3 +109,5 @@ You can install DNGamepads using [Bower](http://bower.io/). Requests for alterna
 ## Credits and collaboration ##
 
 DNGamepads is maintained by [Conrad Kreyling](http://twitter.com/konistehdev), as part of [Date Nighto](http://datenighto.com). Please feel free to raise an issue or pull request.
+
+Special thanks to [Nicholas C. Zakas](http://www.nczonline.net/blog/2010/03/09/custom-events-in-javascript/) for his EventTarget implementation, [Marcin Wichary](http://www.html5rocks.com/en/tutorials/doodles/gamepad/) for his excellent write-up on cross browser controller support, [David Walsh](http://davidwalsh.name/javascript-objects-deconstruction) for the pointers on Object.create-based inheritance and [FTLabs'](https://github.com/ftlabs/fastclick) for their excellent, small bower project folder. 
