@@ -80,7 +80,7 @@ function update(time){
 }
 
 document.addEventListener("DOMContentLoaded", function(event) {
-	// note er do not call startPolling here
+	// note we do not call startPolling here
 	window.requestAnimationFrame(update);
 });
 ```
