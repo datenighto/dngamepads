@@ -1,6 +1,6 @@
 {
-  "name": "DNGamepads",
-  "version": "0.5.0",
+  "name": "dngamepads",
+  "version": "0.6.0",
   "description": "A unified interface to web browser gamepad API's.",
   "maintainers": [
     {
@@ -13,10 +13,10 @@
     "name": "Conrad Kreyling",
     "email": "conrad@datenighto.com"
   },
-  "main": "lib/DNGamepads.js",
+  "main": "lib/dngamepads.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/datenighto/DNGamepads.git"
+    "url": "git://github.com/datenighto/dngamepads.git"
   },
   "keywords": [
     "gamepad"
@@ -30,5 +30,5 @@
   "implements": [
     "CommonJS/Modules/1.0"
   ],
-  "homepage": "https://github.com/datenighto/DNGamepads"
+  "homepage": "https://github.com/datenighto/dngamepads"
 }

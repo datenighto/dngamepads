@@ -1,7 +1,7 @@
 {
-  "name": "DNGamepads",
-  "version": "0.5.0",
-  "main": "lib/DNGamepads.js",
+  "name": "dngamepads",
+  "version": "0.6.0",
+  "main": "lib/dngamepads.js",
   "ignore": [
     "**/.*",
     "component.json",
